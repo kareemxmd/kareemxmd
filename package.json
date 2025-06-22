@@ -1,13 +1,16 @@
+
 {
-  "name": "whatsapp-bot-xmd",
+  "name": "kareemwest-xmd-tech-bot",
   "version": "1.0.0",
-  "description": "Sample WhatsApp bot for Heroku",
+  "description": "WhatsApp bot by Kàrèèm_Wèst💔-XMD-TECH🌍",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "author": "Kàrèèm_Wèst💔-XMD-TECH🌍",
+  "license": "MIT",
   "dependencies": {
-    "qrcode-terminal": "^0.12.0",
-    "whatsapp-web.js": "^1.21.0"
+    "whatsapp-web.js": "^1.21.1",
+    "qrcode-terminal": "^0.12.0"
   }
 }

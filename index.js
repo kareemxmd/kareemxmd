@@ -1,30 +1,44 @@
+
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 
 const client = new Client({
-    authStrategy: new LocalAuth(),
-    puppeteer: {
-        args: ['--no-sandbox'],
-    }
+    authStrategy: new LocalAuth()
 });
 
-client.on('qr', qr => {
+client.on('qr', (qr) => {
     qrcode.generate(qr, { small: true });
-    console.log('Scan the QR Code above with WhatsApp!');
 });
 
 client.on('ready', () => {
-    console.log('✅ Bot is ready!');
+    console.log('Kàrèèm_Wèst💔-XMD-TECH🌍 BOT is ready!');
 });
 
-client.on('message', message => {
-    if (message.body === '!menu') {
-        message.reply('👋 Hello Kàrèèm_Wèst💔! Hii ni menu yako ya commands:\n\n1. !menu\n2. !info\n3. !status');
-    } else if (message.body === '!info') {
-        message.reply('🔧 Hii ni sample WhatsApp bot made by XMD_TECH!');
-    } else if (message.body === '!status') {
-        message.reply('✅ Bot iko hewani, Karibu!');
+client.on('message', async (message) => {
+    if (message.body.toLowerCase() === 'menu') {
+        message.reply(`🌍 *Kàrèèm_Wèst💔-XMD-TECH🌍 Command List*
+
+1. *menu* - Angalia list ya commands zote
+2. *msaidie* - Pata msaada wa kutumia bot hii
+3. *hali* - Bot itakuambia hali yake
+4. *link* - Inatoa link muhimu
+5. *msaada* - Maelekezo ya bot
+6. *nani* - Inaelezea bot hii ni ya nani
+7. *owner* - Inakuonyesha jina la developer
+8. *about* - Maelezo mafupi ya bot hii
+9. *time* - Inaonyesha saa na tarehe
+10. *grouplink* - Inatoa link ya group
+11. *random* - Inatoa ujumbe random wa motisha
+
+_Bot made by: Kàrèèm_Wèst💔-XMD-TECH🌍_
+        `);
+    } else if (message.body.toLowerCase() === 'nani') {
+        message.reply('Mimi ni bot ya WhatsApp iliyotengenezwa na Kàrèèm_Wèst💔-XMD-TECH🌍');
+    } else if (message.body.toLowerCase() === 'owner') {
+        message.reply('👤 Owner: Kàrèèm_Wèst💔-XMD-TECH🌍');
+    } else if (message.body.toLowerCase() === 'time') {
+        const now = new Date();
+        message.reply('🕒 Sasa ni: ' + now.toLocaleString());
     }
 });
-
 client.initialize();
