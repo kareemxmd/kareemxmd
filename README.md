@@ -18,7 +18,7 @@
 
 ### 🟢 TOOLS
 
-- [![Fork](https://img.shields.io/badge/🔄%20FORK%20REPO%20BMB-green)](https://github.com/kareemxmd)
+- [![Fork](https://img.shields.io/badge/🔄%20FORK%20REPO%20kareemxmd-green)](https://github.com/kareemxmd)
 - [![Pairing Code](https://img.shields.io/badge/🔐%20GET%20PAIRING%20CODE-green)](https://github.com/kareemxmd)
 
 ---
