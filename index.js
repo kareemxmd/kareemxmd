@@ -1,21 +1,22 @@
 
-const { Client, LocalAuth } = require('whatsapp-web.js');
+const { Client } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 
-const client = new Client({
-    authStrategy: new LocalAuth()
-});
+const client = new Client();
 
 client.on('qr', (qr) => {
     qrcode.generate(qr, { small: true });
+    console.log('✅ QR Code ready. Scan it now with your WhatsApp.');
 });
 
 client.on('ready', () => {
-    console.log('Kàrèèm_Wèst💔-XMD-TECH🌍 BOT is ready!');
+    console.log('🤖 Kàrèèm_Wèst💔-XMD-TECH🌍 BOT is ready!');
 });
 
 client.on('message', async (message) => {
-    if (message.body.toLowerCase() === 'menu') {
+    const msg = message.body.toLowerCase();
+
+    if (msg === 'menu') {
         message.reply(`🌍 *Kàrèèm_Wèst💔-XMD-TECH🌍 Command List*
 
 1. *menu* - Angalia list ya commands zote
@@ -32,13 +33,26 @@ client.on('message', async (message) => {
 
 _Bot made by: Kàrèèm_Wèst💔-XMD-TECH🌍_
         `);
-    } else if (message.body.toLowerCase() === 'nani') {
+    } else if (msg === 'nani') {
         message.reply('Mimi ni bot ya WhatsApp iliyotengenezwa na Kàrèèm_Wèst💔-XMD-TECH🌍');
-    } else if (message.body.toLowerCase() === 'owner') {
+    } else if (msg === 'owner') {
         message.reply('👤 Owner: Kàrèèm_Wèst💔-XMD-TECH🌍');
-    } else if (message.body.toLowerCase() === 'time') {
+    } else if (msg === 'time') {
         const now = new Date();
         message.reply('🕒 Sasa ni: ' + now.toLocaleString());
     }
 });
+
+process.on('unhandledRejection', error => {
+    console.error('🚨 Unhandled Rejection:', error);
+});
+
+client.on('auth_failure', msg => {
+    console.error('❌ AUTHENTICATION FAILURE:', msg);
+});
+
+client.on('disconnected', reason => {
+    console.log('⚠️ DISCONNECTED:', reason);
+});
+
 client.initialize();
