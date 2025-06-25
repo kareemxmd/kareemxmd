@@ -1,41 +1,69 @@
 
-# 🤖 Kàrèèm_Wèst💔-XMD-TECH🌍 BOT
+<p align="center">
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗞𝗮̀𝗿𝗲̀𝗲𝗺_𝗪𝗲̀𝘀𝘁💔-𝗫𝗠𝗗-𝗧𝗘𝗖𝗛🌍</h1>
+</p>
 
-[![Followers](https://img.shields.io/github/followers/kareemxmd?style=social)](https://github.com/kareemxmd)
-[![Stars](https://img.shields.io/github/stars/kareemxmd?style=social)](https://github.com/kareemxmd)
-[![Forks](https://img.shields.io/github/forks/kareemxmd?style=social)](https://github.com/kareemxmd)
-[![Watching](https://img.shields.io/github/watchers/kareemxmd?style=social)](https://github.com/kareemxmd)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+</p>
 
----
+<div align="center">
+  <a href="https://github.com/kareemxmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/kareemxmd?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/kareemxmd/Kàrèèm_Wèst💔-XMD-TECH🌍/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kareemxmd/Kàrèèm_Wèst💔-XMD-TECH🌍?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/kareemxmd/Kàrèèm_Wèst💔-XMD-TECH🌍/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kareemxmd/Kàrèèm_Wèst💔-XMD-TECH🌍?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/kareemxmd/Kàrèèm_Wèst💔-XMD-TECH🌍"><img title="Size" src="https://img.shields.io/github/repo-size/kareemxmd/Kàrèèm_Wèst💔-XMD-TECH🌍?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/kareemxmd/Kàrèèm_Wèst💔-XMD-TECH🌍/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+</div>
 
-### 🚀 QUICK DEPLOY
-
-- [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-- [![Deploy to Railway](https://railway.app/button.svg)](https://railway.app/new)
-- [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
-
----
-
-### 🟢 TOOLS
-
-- [![Fork](https://img.shields.io/badge/🔄%20FORK%20REPO%20kareemxmd-green)](https://github.com/kareemxmd)
-- [![Pairing Code](https://img.shields.io/badge/🔐%20GET%20PAIRING%20CODE-green)](https://github.com/kareemxmd)
+<p align="center">
+  <img src="https://files.catbox.moe/f5q902.jpg" width="270" style="border-radius: 20px;" />
+</p>
 
 ---
 
-## 🔥 LIST-DEPLOY-NOW
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800&color=FFFF00&center=true&vCenter=true&width=815&height=100&lines=Kàrèèm_Wèst💔-XMD-TECH🌍+DEPLOY+NOW+ENJOY+BOT)](https://git.io/typing-svg)
 
-A simple WhatsApp bot powered by [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+### 🔰 ➊ FOLLOW GITHUB
 
-```bash
-Commands Available:
-1. menu - List of commands
-2. owner - Show developer name
-3. time - Show current time
-4. nani - Info about this bot
-```
+[![](https://img.shields.io/badge/➕_FOLLOW_Kàrèèm_Wèst💔--XMD--TECH🌍-orange?style=for-the-badge&logo=github)](https://github.com/kareemxmd)
 
 ---
 
-### 👤 Developer
-**Kàrèèm_Wèst💔-XMD-TECH🌍**
+### 🔃 ➋ FORK REPOSITORY
+
+[![](https://img.shields.io/badge/🔁_FORK_THIS_REPO-FF4500?style=for-the-badge&logo=github)](https://github.com/kareemxmd/Kàrèèm_Wèst💔-XMD-TECH🌍/fork)
+
+---
+
+### 🔐 ➌ PAIR SESSION CODE
+
+[![](https://img.shields.io/badge/🔐_PAIR_CODE_SESSION-8A2BE2?style=for-the-badge&logo=codepen)](https://session-bmb-code.onrender.com/)
+
+---
+
+### 📸 ➍ QR SESSION ID
+
+[![](https://img.shields.io/badge/📷_SCAN_QR_SESSION-FF00FF?style=for-the-badge&logo=codepen)](https://session-bmb-code.onrender.com/pair)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=FFFF00&center=true&vCenter=true&width=815&height=100&lines=Kàrèèm_Wèst💔-XMD-TECH🌍)](https://git.io/typing-svg)
+
+---
+
+### 🚀 DEPLOY TO PLATFORM
+
+**Heroku**  
+[![](https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-6971FF?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/kareemxmd/Kàrèèm_Wèst💔-XMD-TECH🌍/tree/main)
+
+**Render**  
+[![](https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-black?style=for-the-badge&logo=render)](https://dashboard.render.com/web/new)
+
+**TalkDrove**  
+[![](https://img.shields.io/badge/📤_TALKDROVE_DEPLOY-FF004D?style=for-the-badge&logo=telegram)](https://talkdrove.com/share-bot/11)
+
+**Koyeb**  
+[![](https://img.shields.io/badge/⚙️_DEPLOY_ON_KOYEB-FF009D?style=for-the-badge&logo=koyeb)](https://app.koyeb.com)
+
+**Railway**  
+[![](https://img.shields.io/badge/🚄_DEPLOY_ON_RAILWAY-orange?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new)
